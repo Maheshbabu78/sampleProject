@@ -1,0 +1,2 @@
+# sampleProject
+regarding sql info
